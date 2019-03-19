@@ -1,0 +1,6 @@
+1 - there are 272 services configured on full install
+2 - there are 62 services enabled on full install
+3 - there are 144 services configured on minimal install
+4 - there are 30 services enabled on minimal install
+5 - chrony is a versatile implementation of the Network Time Protocol (NTP)
+6 - File Transfer Protocol uses TCP to transfer files
